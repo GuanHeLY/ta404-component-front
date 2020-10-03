@@ -4,6 +4,6 @@ export default [
     title: '工作台',
     name: 'page',
     path: 'page',
-    component: () => import('./page.vue')
+    component: () => import('./page.vue'),
   }
 ]

@@ -73,7 +73,7 @@ const faceConfig = () => {
       // 自定义工作台页面，默认页面为workTablePage.html，文字为'工作台'。注：若自定义页面，需在功能资源管理中放开该页面的权限
       worktable: {
         name: '工作台',
-        module: '404.html', // 模块
+        module: 'workTablePage.html', // 模块
         part: '', // 路由路径
         prefix: '',
       },
